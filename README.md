@@ -4,19 +4,24 @@ A lightweight note collection focused on simplicity. Work in progress.
 
 
 ## Project structure
-
 ```
 .
+├── tests/
+│   └── test_utils.py
+├── .gitignore
+├── LICENSE
+├── README.md
 ├── main.py
-├── utils.py
-└── requirements.txt
+├── requirements.txt
+└── utils.py
 ```
 
 ## Usage
 
 ```bash
-bash install.sh
+python3 -m pyutils
 ```
+
 
 ## License
 
