@@ -19,7 +19,7 @@ A lightweight note collection focused on simplicity. Work in progress.
 ## Usage
 
 ```bash
-python3 -m pyutils
+python3 main.py --verbose
 ```
 
 
