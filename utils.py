@@ -24,3 +24,6 @@ def read_lines(path: str) -> list:
     """Read a text file, stripping trailing newlines."""
     with open(path, "r", encoding="utf-8") as fh:
         return [line.rstrip("\n") for line in fh]
+
+
+# Small tweak
